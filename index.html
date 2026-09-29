@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bird Jumping Game</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>🐦 Bird Jumping Game</h1>
+
+    <div id="game">
+        <div id="bird">🐦</div>
+
+        <div id="pipeTop"></div>
+        <div id="pipeBottom"></div>
+
+        <div id="score">Score: 0</div>
+
+        <div id="gameOver">
+            <h2>Game Over!</h2>
+            <p id="finalScore">Score: 0</p>
+            <button onclick="restartGame()">Play Again</button>
+        </div>
+    </div>
+
+    <p>Press <b>SPACE</b> or click the game to make the bird jump.</p>
+
+    <script src="game.js"></script>
+
+</body>
+</html>
