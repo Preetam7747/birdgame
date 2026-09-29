@@ -24,8 +24,6 @@ Avoid the pipes and try to get the highest score.
 
 Open `index.html` in your web browser.
 
-No compiler is required.
-
 ## 👨‍💻 Author
 
 Your Name
