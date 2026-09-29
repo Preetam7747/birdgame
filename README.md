@@ -26,4 +26,4 @@ Open `index.html` in your web browser.
 
 ## 👨‍💻 Author
 
-Your Name
+Preetam P. Naik
